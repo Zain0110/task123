@@ -1,0 +1,23 @@
+.mhead{
+    width: 95.2%;
+    height: 70px;
+    margin: auto;
+    background-color: #376eb1d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mhead a{
+    color: rgb(0, 0, 0);
+}
+input {
+    margin-left: 80px;
+}
+button{
+    margin-right: 40px;
+}
+input{
+    padding: 10px 350px 10px 350px;
+    border-radius: 20px;
+}
